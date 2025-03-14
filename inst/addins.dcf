@@ -1,0 +1,4 @@
+Name: Sync GitHub
+Description: Автоматическая синхронизация проекта с GitHub.
+Binding: sync_git
+Interactive: false

@@ -1,0 +1,35 @@
+---
+title: "ecommerce_turnover"
+author: "Daniil C"
+date: "2025-03-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# The Impact of Macroeconomic Factors, Logistics Development, and Payment Systems on the Turnover of International E-Commerce Platforms
+
+
+
+Сначала был собран dataset по следующим требованиям : 
+- обороты международных торговых площадок (ie - alibaba, Amazon, …) 
+- ВВП 
+- Обьемы производства стран. 
+- Объемы торговли через электронные торговые платформы
+- Потребительские доходы и расходы в стране
+- Номинальные зарплаты населения;
+- Численность населения 
+- Количество банков в странах
+
+страны Россия, Китай, США, ЕС, Великобритания, Индия, Турция, Япония, страны Африки.
+для B2B и B2C платформ отдельно. 
+
+
+
+
+
+
+
